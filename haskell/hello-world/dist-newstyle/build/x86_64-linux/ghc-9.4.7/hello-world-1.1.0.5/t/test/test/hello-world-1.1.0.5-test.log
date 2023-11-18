@@ -1,0 +1,8 @@
+Test suite test: RUNNING...
+
+hello [✔]
+
+Finished in 0.0001 seconds
+1 example, 0 failures
+Test suite test: PASS
+Test suite logged to: /home/rime/Exercism/haskell/hello-world/dist-newstyle/build/x86_64-linux/ghc-9.4.7/hello-world-1.1.0.5/t/test/test/hello-world-1.1.0.5-test.log
